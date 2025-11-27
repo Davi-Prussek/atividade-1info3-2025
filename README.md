@@ -14,7 +14,7 @@ g(x) = -7x + 2, se x > 1.
 
 Em seguida, aplique essas funções nos seguintes casos: f(-8) e g(2).
 
-**OBSERVAÇÃO**: Caso não esteja entendendo a descrição das funções acima (sobretudo da função g(x)), dê uma olhada no arquivo "atividade_programacao-1info3.pdf" para maior clareza.
+**OBSERVAÇÃO**: Caso não esteja entendendo a descrição das funções acima (sobretudo da função g(x)), dê uma olhada no arquivo "[atividade_programacao-1info3.pdf](https://github.com/adrianorodriguesdemelo/atividade-1info3-2025/blob/main/atividade_programacao-1info3.pdf)" para maior clareza.
 
 
 ## Problema 2
